@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "2cc64ae8310d416d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e5362f5cbaa0216",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d18d148f15d6a948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99ffba4ff40ad3d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "95503c7e9c5e00e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9abd1a6a1b62d374",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf537127b9d80fda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "378c781a6e45bdd6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9eff31bc0cab1892",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7ce088fa160df9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6ee0f709732558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5b3a1182e37cd62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c89d11339e717613",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b8df859427c7fc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d18d148f15d6a948",
+  "lastOpenFiles": [
+    "README.md",
+    "2023/_todo/UIUCTF 2023.md",
+    "2023/_todo/LA CTF 2023.md",
+    "2023/_todo/hxp CTF 2022.md",
+    "2023/_todo/cursedCTF 2023.md",
+    "2023/_todo/BCACTF 4.0.md",
+    "2023/_todo/angstromCTF 2023.md",
+    "2023/SekaiCTF 2023.md",
+    "2023/Securinets CTF Quals 2023.md",
+    "2023/PlaidCTF 2023.md",
+    "2023/HITCON CTF 2023.md",
+    "2023/DownUnderCTF 2023.md",
+    "2023/Black Bauhinia CTF 2023.md",
+    "2023/_noarchive/TetCTF 2023.md",
+    "2023/_noarchive/Crypto CTF 2023.md",
+    "2023/_todo/TAMUctf 2023.md",
+    "2023/_wip/corCTF 2023.md",
+    "2023/_wip/CTFZone 2023 Quals.md",
+    "2023/_todo/DiceCTF 2023.md",
+    "2023/_wip/SEETF 2023.md",
+    "2023/_wip/ImaginaryCTF 2023.md",
+    "2023/_todo/AmateursCTF 2023.md",
+    "2023/Asian Cyber Security Challenge 2023.md",
+    "2023/_todo/Google Capture The Flag 2023.md",
+    "2023/_noarchive/RealWorld CTF 5th.md",
+    "2023/_noarchive/NahamCon CTF 2023.md",
+    "2023",
+    "dev",
+    "2023/_wip",
+    "template",
+    "2023/_noarchive",
+    "2023/_todo",
+    "topics",
+    "dev/events"
+  ]
+}
